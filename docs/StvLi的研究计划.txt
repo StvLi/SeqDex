@@ -1,0 +1,10 @@
+研究整体目的
+	主要目的
+		以原文中的transition feasibility function作为observation
+		以原文中的submission序号为action
+		训练一个可以正确指导submission跳转的agent
+	次要目的
+		参考fuzzy reasoning的决策模式
+		通过设计合理的网络结构
+		使agent的决策方法具有一定的可解释性
+		（这项目标应当首先在一个简单的MDP问题中首先进行验证）
